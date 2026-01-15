@@ -2,7 +2,7 @@
 
 **Glamurosa** é um projeto de landing page desenvolvido para uma loja de roupas femininas localizada no Brás, São Paulo. O foco principal foi transformar uma vitrine física em uma experiência digital atraente e funcional, otimizando o processo de vendas da loja.
 
-🔗 **[Acesse o projeto online aqui](SUBSTITUA_PELO_LINK_DO_SEU_SITE)**
+🔗 **[Acesse o projeto online aqui](https://modaglamurosa.com.br/)**
 
 ## 💎 Sobre o Projeto
 Este site foi criado como uma solução real para facilitar o contato entre clientes e a loja. O design utiliza um tema escuro (*Dark Mode*) para dar destaque às cores e detalhes das peças de vestuário.
